@@ -10,12 +10,11 @@ I read French, Creole, English and a little Russian.
 
 ### Connect with me:
 <br />
-<div align="center">
+<div>
 <img align="center" alt="Jeed0" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <img align="center" alt="Jeed0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <img align="center" alt="Jeed0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <img align="center" alt="Jeed0 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- <a href="https://twitter.com/Jeed0_io" target="blank"><img align="center" src=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Jeed0-twitter"/></a>
 [website]: https://github.com/Jeed0
 [twitter]: https://twitter.com/Jeed0_io
 [instagram]: https://instagram.com/jeedo.mq
