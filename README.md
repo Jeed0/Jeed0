@@ -2,7 +2,7 @@
 
 I'm Julien, aka Jeedo, french aspiring developper. 
 
-I live in Madinina  (the Caribbean Islands).
+I live in Madinina (Caribbean Island).
 
 I read French, Creole, English and a little Russian.
 
