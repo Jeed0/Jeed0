@@ -19,3 +19,4 @@ jobs:
           LOCALE: 'fr'
           SHOW_LOC_CHART: 'False'
           SHOW_LANGUAGE: 'False'
+          SHOW_PROJECTS: 'False'
