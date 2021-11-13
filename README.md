@@ -46,12 +46,6 @@ I read French, Creole, English and a little Russian.
 <br />
 
 
-
-
-
-
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
