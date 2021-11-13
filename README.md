@@ -43,9 +43,9 @@ I read French, Creole, English and a little Russian.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeed0&theme=dark&show_icons=true&layout=compact)](https://github.com/Jeed0/github-readme-stats)
 
+<br />
 
-
-[!Jeed0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=!Jeed0)](https://github.com/!Jeed0/github-readme-stats)
+[!Jeed0's wakatime stats(https://github-readme-stats.vercel.app/api/wakatime?username=!Jeed0)](https://github.com/!Jeed0/github-readme-stats)
 
 
 
