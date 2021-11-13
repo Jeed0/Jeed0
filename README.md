@@ -37,8 +37,8 @@ I'm Julien, aka Jeedo, aspiring developper.
 <br />
 
 
-![Jeed0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeed0&theme=dark&show_icons=true&count_private=true)
-)
+![Jeed0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeed0&theme=dark&show_icons=true&count_private=true&show_icons=true)
+
 
 
 
