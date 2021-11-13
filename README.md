@@ -37,7 +37,8 @@ I read French, Creole, English and a little Russian.
 <br />
 <br />
 <br />
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Jeed0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeed0&theme=dark&show_icons=true&count_private=true&show_icons=true&hide=issues,contribs,prs)
 
@@ -46,8 +47,7 @@ I read French, Creole, English and a little Russian.
 <br />
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <!--
 **Jeed0/Jeed0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
