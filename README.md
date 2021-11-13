@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [website]: https://github.com/Jeed0
-[twitter]: https://twitter.com/Jeed0
-[instagram]: https://instagram.com/
+[twitter]: https://twitter.com/Jeed0_io
+[instagram]: https://instagram.com/jeedo.mq
 [linkedin]: https://linkedin.com/in/Jeed0
