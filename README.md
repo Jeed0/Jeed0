@@ -1,4 +1,4 @@
-[<img align="left" alt="space" width="100%" height="33%" src="https://acegif.com/wp-content/gif/outerspace-76.gif" />][website]
+[<img align="left" alt="space" height="33%" src="https://acegif.com/wp-content/gif/outerspace-76.gif" />][website]
 
 
 
