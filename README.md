@@ -1,7 +1,3 @@
-[<img  align="left" alt="space"  background-image="https://acegif.com/wp-content/gif/outerspace-76.gif" />][website]
-
-
-
 ### Hi there 👋
 
 I'm Julien, aka Jeedo, aspiring developper. 
