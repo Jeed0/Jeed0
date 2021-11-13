@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 [website]: https://github.com/Jeed0
 [twitter]: https://twitter.com/Jeed0_io
 [instagram]: https://instagram.com/jeedo.mq
-[linkedin]: https://linkedin.com/in/Jeed0
+[linkedin]: https://linkedin.com/in/jeed0
