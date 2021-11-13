@@ -38,7 +38,7 @@ I read French, Creole, English and a little Russian.
 <br />
 <br />
 
-## WAKATIME
+## WAKATIME STAT'S
 <br />
 <!--START_SECTION:waka-->
 **Je suis un 🐤 du matin** 
