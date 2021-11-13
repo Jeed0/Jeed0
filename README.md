@@ -45,7 +45,7 @@ I read French, Creole, English and a little Russian.
 
 <br />
 
-<!--[![Jeed0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=!Jeed0)](https://github.com/Jeed0/github-readme-stats)-->
+
 
 
 
@@ -73,3 +73,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/Jeed0_io
 [instagram]: https://instagram.com/jeedo.mq
 [linkedin]: https://linkedin.com/in/jeed0
+<!--[![Jeed0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=!Jeed0)](https://github.com/Jeed0/github-readme-stats)-->
