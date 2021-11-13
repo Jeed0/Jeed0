@@ -6,7 +6,7 @@ I'm french and i live in Madinina (Caribbean Island).
 
 I read French, Creole, English and a little Russian.
 
-- I’m currently learning React  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> to specialize myself !
+- I’m currently learning React  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> to specialize myself  %F0%9F%8E%AF !
 
 ### Connect with me:
 
