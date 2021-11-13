@@ -1,4 +1,13 @@
 ### Hi there 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeed0)](https://github.com/Jeed0/github-readme-stats)
+
+
+
+
+
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
