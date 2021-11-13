@@ -45,6 +45,10 @@ I read French, Creole, English and a little Russian.
 
 
 
+[!Jeed0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=!Jeed0)](https://github.com/!Jeed0/github-readme-stats)
+
+
+
 
 
 
