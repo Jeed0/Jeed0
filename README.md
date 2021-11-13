@@ -1,7 +1,5 @@
-<!--[<img align="left" alt="space" width="100%" src="https://acegif.com/wp-content/gif/outerspace-76.gif" />][website]-->
-.slide: data-background-image="https://acegif.com/wp-content/gif/outerspace-76.gif"
-<body>
-  <img class="bg" src="https://acegif.com/wp-content/gif/outerspace-76.gif" />
+[<img align="left" alt="space" width="100%" src="https://acegif.com/wp-content/gif/outerspace-76.gif" />][website]
+
 
 
 ### Hi there 👋
@@ -53,7 +51,6 @@ I read French, Creole, English and a little Russian.
 
 <!--[![Jeed0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=!Jeed0)](https://github.com/Jeed0/github-readme-stats)-->
 
-</body>
 
 
 
