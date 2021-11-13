@@ -38,6 +38,74 @@ I read French, Creole, English and a little Russian.
 <br />
 <br />
 <!--START_SECTION:waka-->
+**🐱 Mes données GitHub** 
+
+> 🏆 569 Contributions en 2021
+ > 
+> 📦 15.7 kB Utilisés avec le stockage de GitHub 
+ > 
+> 🚫 N'a pas choisi d'embaucher
+ > 
+> 📜 22 dépots publiques 
+ > 
+> 🔑 6 dépots privés  
+ > 
+**Je suis un 🐤 du matin** 
+
+```text
+🌞 Matin      166 commits    ████████░░░░░░░░░░░░░░░░░   34.09% 
+🌆 Journée    188 commits    █████████░░░░░░░░░░░░░░░░   38.6% 
+🌃 Soirée     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
+🌙 Nuit       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96%
+
+```
+📅 **Je suis le plus productif sur Samedi** 
+
+```text
+Lundi        47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
+Mardi        37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
+Mercredi     36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+Jeudi        69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+Vendredi     83 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Samedi       170 commits    ████████░░░░░░░░░░░░░░░░░   34.91% 
+Dimanche     45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.24%
+
+```
+
+
+📊 **Cette semaine, je passe mon temps sur** 
+
+```text
+⌚︎ Fuseau horaire: America/Martinique
+
+💬 Langages: 
+Aucune activité enregistrée cette semaine
+
+🔥 Éditeurs de code: 
+Aucune activité enregistrée cette semaine
+
+🐱‍💻 Projets: 
+Aucune activité enregistrée cette semaine
+
+💻 Système d'exploitation: 
+Aucune activité enregistrée cette semaine
+
+```
+
+**Je code principalement en JavaScript** 
+
+```text
+JavaScript               38 repos            ███████████░░░░░░░░░░░░░░   43.68% 
+PHP                      26 repos            ███████░░░░░░░░░░░░░░░░░░   29.89% 
+HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+CSS                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+SCSS                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
+
+```
+
+
+
+ Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
 
 ![Jeed0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeed0&theme=dark&show_icons=true&count_private=true&show_icons=true&hide=issues,contribs,prs)
