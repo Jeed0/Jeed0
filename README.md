@@ -15,6 +15,10 @@ I read French, Creole, English and a little Russian.
 [<img align="center" alt="Jeed0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="Jeed0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="Jeed0 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[website]: https://github.com/Jeed0
+[twitter]: https://twitter.com/Jeed0_io
+[instagram]: https://instagram.com/jeedo.mq
+[linkedin]: https://linkedin.com/in/jeed0
 </div>
 <br />
 
@@ -113,8 +117,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[website]: https://github.com/Jeed0
-[twitter]: https://twitter.com/Jeed0_io
-[instagram]: https://instagram.com/jeedo.mq
-[linkedin]: https://linkedin.com/in/jeed0
+
 <!--[![Jeed0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=!Jeed0)](https://github.com/Jeed0/github-readme-stats)-->
