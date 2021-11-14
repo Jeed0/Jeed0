@@ -11,16 +11,18 @@ I read French, Creole, English and a little Russian.
 ### Connect with me:
 <br />
 <div align="center">
-  <a href="https://github.com/Jeed0" target="blank"> 
-    <img align="center" alt="Jeed0" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
-  </a>
-<img align="center" alt="Jeed0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<img align="center" alt="Jeed0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align="center" alt="Jeed0 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[website]: https://github.com/Jeed0
-[twitter]: https://twitter.com/Jeed0_io
-[instagram]: https://instagram.com/jeedo.mq
-[linkedin]: https://linkedin.com/in/jeed0
+    <a href="https://github.com/Jeed0" target="blank"> 
+      <img align="center" alt="Jeed0" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
+    </a>
+    <a href="https://twitter.com/Jeed0_io" target="blank"> 
+      <img align="center" alt="Jeed0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+    </a>
+    <a href="https://linkedin.com/in/jeed0" target="blank"> 
+      <img align="center" alt="Jeed0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+    </a>
+    <a href="https://instagram.com/jeedo.mq" target="blank"> 
+      <img align="center" alt="Jeed0 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+    </a>
 </div>
 <br />
 
