@@ -1,4 +1,4 @@
-#Welcome!!
+# Welcome!!
 
 ## Hi there 👋
 
@@ -11,6 +11,7 @@ I read French, Creole, English and a little Russian.
 - I’m currently learning React  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> to specialize myself  :dart: !
 
 ### Connect with me:
+
 <div>
     <a href="https://github.com/Jeed0" target="_blank" > 
       <img align="left" alt="Jeed0" width="26px" margin="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
@@ -27,6 +28,7 @@ I read French, Creole, English and a little Russian.
 </div>
 
 ### Languages and Tools:
+
 <div>
 <img align="left" alt="Visual Studio Code" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
