@@ -10,8 +10,8 @@ I read French, Creole, English and a little Russian.
 
 ### Connect with me:
 <br />
-<div>
-    <a href="https://github.com/Jeed0" target="blank" style="{color:green;} :hover { color: white; }> 
+<div >
+    <a href="https://github.com/Jeed0" target="blank" onMouseOver="this.style.backgroundColor='#F8F8F8'" onMouseOut="this.style.backgroundColor='#FFFFFF'" > 
       <img align="left" alt="Jeed0" width="22px" margin="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
     </a>
     <a href="https://twitter.com/Jeed0_io" target="blank"> 
