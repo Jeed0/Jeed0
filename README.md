@@ -13,7 +13,6 @@ I read French, Creole, English and a little Russian.
 
 ### Connect with me:
 
-<br/>
 <div>
     <a href="https://github.com/Jeed0" target="_blank" > 
       <img align="left" alt="Jeed0" width="26px" margin="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
@@ -32,7 +31,6 @@ I read French, Creole, English and a little Russian.
 
 ### Languages and Tools:
 
-<br/>
 <div>
 <img align="left" alt="Visual Studio Code" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -48,7 +46,7 @@ I read French, Creole, English and a little Russian.
 </div>
 <br/>
 
-## WAKATIME STAT'S
+## WAKATIME STATS
 <!--START_SECTION:waka-->
 **Je suis un 🐤 du matin** 
 
@@ -96,7 +94,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <br/>
 
-## GITHUB STAT'S 
+## GITHUB STATS 
 
 <br />
 <div align="center">
