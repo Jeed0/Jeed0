@@ -10,8 +10,8 @@ I read French, Creole, English and a little Russian.
 
 ### Connect with me:
 <br />
-<div>
-  <a href="https://github.com/Jeed0" target="_blank"> 
+<div align="center">
+  <a href="https://github.com/Jeed0" target="blank"> 
     <img align="center" alt="Jeed0" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
   </a>
 <img align="center" alt="Jeed0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
