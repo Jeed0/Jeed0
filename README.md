@@ -9,9 +9,8 @@ I read French, Creole, English and a little Russian.
 - I’m currently learning React  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> to specialize myself  :dart: !
 
 ### Connect with me:
-<br />
-<div >
-    <a href="https://github.com/Jeed0" target="blank" onMouseOver="this.style.backgroundColor='#F8F8F8'" onMouseOut="this.style.backgroundColor='#FFFFFF'" > 
+<div onMouseOver="this.style.backgroundColor='#F8F8F8'" onMouseOut="this.style.backgroundColor='#FFFFFF'" >
+    <a href="https://github.com/Jeed0" target="blank" > 
       <img align="left" alt="Jeed0" width="22px" margin="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
     </a>
     <a href="https://twitter.com/Jeed0_io" target="blank"> 
