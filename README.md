@@ -1,4 +1,6 @@
-### Hi there 👋
+#Welcome!!
+
+## Hi there 👋
 
 I'm Julien, aka Jeedo, aspiring developper. 
 
@@ -9,17 +11,17 @@ I read French, Creole, English and a little Russian.
 - I’m currently learning React  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> to specialize myself  :dart: !
 
 ### Connect with me:
-<div onMouseOver="this.style.backgroundColor='#F8F8F8'" onMouseOut="this.style.backgroundColor='#FFFFFF'" >
-    <a href="https://github.com/Jeed0" target="blank" > 
+<div>
+    <a href="https://github.com/Jeed0" target="_blank" > 
       <img align="left" alt="Jeed0" width="22px" margin="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
     </a>
-    <a href="https://twitter.com/Jeed0_io" target="blank"> 
+    <a href="https://twitter.com/Jeed0_io" target="_blank"> 
       <img align="left" alt="Jeed0 | Twitter" width="22px" margin="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
     </a>
-    <a href="https://linkedin.com/in/jeed0" target="blank"> 
+    <a href="https://linkedin.com/in/jeed0" target="_blank"> 
       <img align="left" alt="Jeed0 | LinkedIn" width="22px" margin="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
-    <a href="https://instagram.com/jeedo.mq" target="blank"> 
+    <a href="https://instagram.com/jeedo.mq" target="_blank"> 
       <img align="left" alt="Jeed0 | Instagram" width="22px" margin="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
 </div>
@@ -95,13 +97,13 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
 ## GITHUB STAT'S 
 <br />
-
+<div align="center">
 ![Jeed0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeed0&theme=dark&show_icons=true&count_private=true&show_icons=true&hide=issues,contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeed0&theme=dark&show_icons=true&layout=compact)](https://github.com/Jeed0/github-readme-stats)
 
 <br />
-
+</div>
 
 
 
