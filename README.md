@@ -26,7 +26,7 @@ I read French, Creole, English and a little Russian.
       <img align="left" alt="Jeed0 | Instagram" width="26px" margin="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
     <a href="https://instagram.com/jeedo.mq" target="_blank"> 
-      <img align="left" alt="Jeed0 | Instagram" width="26px" margin="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+      <img align="left" alt="Jeed0 | Instagram" width="26px" margin="15px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
     </a>
 </div>
 <br/>
