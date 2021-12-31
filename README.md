@@ -25,9 +25,6 @@ I read French, Creole, English and a little Russian.
     <a href="https://instagram.com/jeedo.mq" target="_blank"> 
       <img align="left" alt="Jeed0 | Instagram" width="26px" margin="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
-    <a href="https://instagram.com/jeedo.mq" target="_blank"> 
-      <img align="left" alt="Jeed0 | Instagram" width="26px" margin="15px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
-    </a>
 </div>
 <br/>
 
@@ -41,7 +38,7 @@ I read French, Creole, English and a little Russian.
 <img align="left" alt="CSS3" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="React" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
+<img align="left" alt="Jeed0 | Instagram" width="26px" margin="15px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
 <img align="left" alt="JavaScript" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Gatsby" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/php/php.png" />
 <img align="left" alt="Node.js" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
