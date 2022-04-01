@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Julien, aka Jeedo, aspiring developper. 
+I'm Julien, aka Jeedo, web developper. 
 
 I'm french and i live in Madinina (Caribbean Island).
 
