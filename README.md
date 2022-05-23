@@ -47,8 +47,8 @@ I read French, Creole, English and a little Russian.
 <br/>
 
 
-## WAKATIME STATS
-<!--START_SECTION:waka-->
+<!--## WAKATIME STATS
+<!--START_SECTION:waka
 **Je suis un 🐤 du matin** 
 
 ```text
@@ -93,7 +93,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
 
  Last Updated on 13/12/2021
-<!--END_SECTION:waka-->
+END_SECTION:waka -->
 <br/>
 
 ## GITHUB STATS 
