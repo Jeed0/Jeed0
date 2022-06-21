@@ -101,7 +101,7 @@ END_SECTION:waka -->
 <br />
 <div align="center">
     
-![Jeed0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeed0&theme=dark&show_icons=true&count_private=true&show_icons=true&hide=issues,contribs,prs)
+
 
     
     
@@ -128,7 +128,6 @@ Here are some ideas to get you started:
 -->
 
 <!--[![Jeed0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=!Jeed0)](https://github.com/Jeed0/github-readme-stats)-->
-<a><h2>Stats</h2></a>
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Jeed0&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
@@ -137,6 +136,3 @@ Here are some ideas to get you started:
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeed0&theme=shades-of-purple&hide_border=true"/>
     </a>
   </div>
-  </br>
-	@@ -26,7 +26,7 @@
- </br>
