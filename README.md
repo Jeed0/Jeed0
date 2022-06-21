@@ -128,13 +128,6 @@ Here are some ideas to get you started:
 -->
 
 <!--[![Jeed0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=!Jeed0)](https://github.com/Jeed0/github-readme-stats)-->
-
-
-
-
-###  Watch my Contribution Graph get eaten by the snake 🥳
-![snake gif](https://raw.githubusercontent.com/Jeed0/Jeed0/output/github-contribution-grid-snake.svg)
-
 <a><h2>Stats</h2></a>
 <div>
     <a href="https://github-readme-stats.vercel.app">
@@ -147,7 +140,3 @@ Here are some ideas to get you started:
   </br>
 	@@ -26,7 +26,7 @@
  </br>
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jeed0&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
