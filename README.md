@@ -2,7 +2,8 @@
 
 ## Hi there 👋
 
-I'm Julien, aka Jeedo, web developper. 
+I'm Julien, aka Jeedo, web developper with react.js speciality. 
+Currently I am studying python. 
 
 I'm french and i live in Madinina (Caribbean Island).
 
