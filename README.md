@@ -100,7 +100,7 @@ END_SECTION:waka -->
 ## GITHUB STATS 
 
 <br />
-<div align="center">
+<!-- <div align="center">
     
 
 
@@ -109,7 +109,7 @@ END_SECTION:waka -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeed0&theme=dark&show_icons=true&layout=compact)](https://github.com/Jeed0/github-readme-stats)
 
 <br />
-</div>
+</div> -->
 
 
 
@@ -129,10 +129,10 @@ Here are some ideas to get you started:
 -->
 
 <!--[![Jeed0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=!Jeed0)](https://github.com/Jeed0/github-readme-stats)-->
-<div>
-    <a href="https://github-readme-stats.vercel.app">
+<div align="center">
+   <!-- <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Jeed0&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
+    </a> -->
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeed0&theme=shades-of-purple&hide_border=true"/>
     </a>
