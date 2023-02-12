@@ -136,4 +136,5 @@ Here are some ideas to get you started:
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeed0&theme=shades-of-purple&hide_border=true"/>
     </a>
+    <script src="https://tryhackme.com/badge/1703597"></script>
   </div>
