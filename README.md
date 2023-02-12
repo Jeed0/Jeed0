@@ -12,19 +12,24 @@ I read French, Creole, English and a little Russian.
 ## Connect with me:
 
 <div>
-    <a href="https://github.com/Jeed0" target="_blank" > 
-      <img align="left" alt="Jeed0" width="26px" margin="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
+    <a color="grey" href="https://github.com/Jeed0" target="_blank" > 
+      <img align="left" alt="Jeed0" width="52px" margin="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
     </a>
     <a href="https://twitter.com/Jeed0_io" target="_blank"> 
-      <img align="left" alt="Jeed0 | Twitter" width="26px" margin="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+      <img align="left" alt="Jeed0 | Twitter" width="48px" margin="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
     </a>
     <a href="https://linkedin.com/in/jeed0" target="_blank"> 
-      <img align="left" alt="Jeed0 | LinkedIn" width="26px" margin="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+      <img align="left" alt="Jeed0 | LinkedIn" width="48px" margin="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
     <a href="https://instagram.com/jeedo.mq" target="_blank"> 
-      <img align="left" alt="Jeed0 | Instagram" width="26px" margin="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+      <img align="left" alt="Jeed0 | Instagram" width="48px" margin="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    </a>
+    <a href="https://tryhackme.com/p/jeedo.artz" target="_blank">
+     <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/jeedo.artz.png" alt="TryHackMe">
     </a>
 </div>
+<br/>
+<br/>
 <br/>
 
 ## Languages and Tools:
@@ -136,5 +141,7 @@ Here are some ideas to get you started:
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeed0&theme=shades-of-purple&hide_border=true"/>
     </a>
-    <script src="https://tryhackme.com/badge/1703597"></script>
+   
   </div>
+  <div>
+   </div>
