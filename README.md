@@ -2,14 +2,12 @@
 
 ## Hi there 👋
 
-I'm Julien, aka Jeedo, web developper with react.js speciality. 
-Currently I am studying python. 
+I'm Julien, aka Jeedo.
+I'm fullstack web developer with react.js for the front and symfony for the back. 
+I am also passionate about cybersecurity
+I speak in French, English & Russian. 
 
-I'm french and i live in Madinina (Caribbean Island).
-
-I read French, Creole, English and a little Russian.
-
-## Connect with me:
+## You can connect with me:
 
 <div>
     <a color="grey" href="https://github.com/Jeed0" target="_blank" > 
@@ -20,9 +18,6 @@ I read French, Creole, English and a little Russian.
     </a>
     <a href="https://linkedin.com/in/jeed0" target="_blank"> 
       <img align="left" alt="Jeed0 | LinkedIn" width="48px" margin="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://instagram.com/jeedo.mq" target="_blank"> 
-      <img align="left" alt="Jeed0 | Instagram" width="48px" margin="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
     <a href="https://tryhackme.com/p/jeedo.artz" target="_blank">
      <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/jeedo.artz.png" alt="TryHackMe">
