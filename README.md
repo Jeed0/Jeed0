@@ -1,11 +1,10 @@
 # Welcome!!!
 
-## Hi there 👋
+## 👋
 
-I'm Jeedo.
-I'm an old geek but a young devops.
-I am also passionate about cybersecurity
-I speak in French, English & Russian. 
+I'm an old geek but a young devops.    
+I am also passionate about cybersecurity    
+I speak in French, English & Russian.     
 
 ## You can connect with me:
 
