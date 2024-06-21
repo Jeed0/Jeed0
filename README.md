@@ -17,7 +17,7 @@ I speak in French, English & Russian.
      <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/jeedo.artz.png" alt="TryHackMe">
     </a>
 </div>
-<!--<br/>
+<br/>
 <br/>
 <br/>
 
@@ -39,7 +39,7 @@ I speak in French, English & Russian.
 </div>
 <br/>
 <br/>
-<br/>
+<br/> -->
 
 
 ## WAKATIME STATS
