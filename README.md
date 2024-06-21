@@ -10,12 +10,6 @@ I speak in French, English & Russian.
 ## You can connect with me:
 
 <div>
-    <a color="grey" href="https://github.com/Jeed0" target="_blank" > 
-      <img align="left" alt="Jeed0" width="52px" margin="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
-    </a>
-    <a href="https://twitter.com/Jeed0_io" target="_blank"> 
-      <img align="left" alt="Jeed0 | Twitter" width="48px" margin="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </a>
     <a href="https://linkedin.com/in/jeed0" target="_blank"> 
       <img align="left" alt="Jeed0 | LinkedIn" width="48px" margin="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
