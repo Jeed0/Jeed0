@@ -39,8 +39,8 @@ I speak in French, English & Russian.
 <br/> -->
 
 
-## WAKATIME STATS
-<!--START_SECTION:waka
+<!--## WAKATIME STATS
+START_SECTION:waka
 **Je suis un 🐤 du matin** 
 
 ```text
