@@ -1,6 +1,4 @@
-# Welcome!!!
-
-## 👋
+# 👋
 
 I'm an old geek but a young devops.    
 I am also passionate about cybersecurity    
