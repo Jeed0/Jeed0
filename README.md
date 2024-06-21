@@ -2,8 +2,8 @@
 
 ## Hi there 👋
 
-I'm Julien, aka Jeedo.
-I'm fullstack web developer with react.js for the front and symfony for the back. 
+I'm Jeedo.
+I'm an old geek but a young devops.
 I am also passionate about cybersecurity
 I speak in French, English & Russian. 
 
@@ -17,11 +17,11 @@ I speak in French, English & Russian.
      <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/jeedo.artz.png" alt="TryHackMe">
     </a>
 </div>
-<br/>
+<!--<br/>
 <br/>
 <br/>
 
-## Languages and Tools:
+<!--## Languages and Tools:
 
 <div>
 <img align="left" alt="Visual Studio Code" width="26px" margin="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -42,7 +42,7 @@ I speak in French, English & Russian.
 <br/>
 
 
-<!--## WAKATIME STATS
+## WAKATIME STATS
 <!--START_SECTION:waka
 **Je suis un 🐤 du matin** 
 
